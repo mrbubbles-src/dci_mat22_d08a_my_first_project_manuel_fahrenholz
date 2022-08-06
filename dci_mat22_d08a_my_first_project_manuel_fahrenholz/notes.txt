@@ -1,0 +1,33 @@
+WebDev-Abschlussprojekte
+
+Aufgabenbeschreibung finales Project:
+
+
+Aufgabe: Erstelle eine Webseite mit den gelernten Themen!
+Idee: Euch freigestellt, aber behaltet die Zeit im Auge.
+Tipp: Eine Webseite über ein Hobby/Euch selbst, etwas was euch interessiert.
+Tipp: Nicht versuchen durch Zwang alle Themen vom Orientierungskurs einbauen, lieber eine klare strukturierte Seite.
+
+Projekt Ideen (Vorschläge):
+1. Resümee/Curriculum Vitae/ Lebenslauf Seite
+2. Landeseite (Landingpage, ist seine alleinstehende Seite, für den Zweck einer Marketing-Kampagne)
+3. Kleine Unternehmens/Firmenseite
+4. Band/Musik Webseite
+5. (Koch) Rezept Website
+6. Restaurant Seite
+7. Webseite über Herkunftsort oder Heimat (z.B. euer Geburtsland)
+8. Persönliches Portfolio (Schaukasten eigener Interessen und Leistungen)
+10. Touristen Seite
+11. deine völlig andere Idee
+
+Es gilt auch für den Projekttag: Anwesenheitspflicht. (und ihr könnt Fragen stellen).
+Freitag (13.05.2022)  →  Präsentation.  Kein Powerpoint → Screenshare in MS Teams (5 bis 10 Minuten pro Person)
+
+1. Erkläre deine Idee, worum geht es auf der Seite.
+2. Wie bist du herangegangen?
+3. Wie habt ihr eurer Projekt in Code umgesetzt.
+4. Erzählt über eure Schwierigkeiten und eventuell, wie ihr sie überwunden habt.
+5. Ziehe ein Fazit. Was hast du gemocht, was nicht?
+
+Am Ende von Tag 8 (08.08.2022) unbedingt daran denken, eure Dateien (HTML,CSS, Bilder, etc…)
+in einem Projektordner (z.B. ZIP oder RAR)  hier hochladen.
